@@ -42,8 +42,13 @@ By combining the accessibility of link resources, the visual engagement of YouTu
 
 <h3>To access My Awesome Website, simply visit:
 
->- [Website_here]([https://solentunicode.web.app/](https://solentunicode.web.app/))
+>- [Firebase Link](https://solentunicode.web.app/)
+>- [heroku Link](https://solentproject.herokuapp.com/)
+>- [Anigma Link](https://solentprojectuni.animaapp.io/)
 </h3>
+
+![ ](/static/img/preview.png)
+
 <h3>To access My Website sources code via Github:
 
 >- [React_Project_Solent_Github_Repository](https://github.com/FelixTudorascu/React_Project_Solent.git) 
@@ -86,7 +91,7 @@ By combining the accessibility of link resources, the visual engagement of YouTu
 <h3>You have now successfully cloned the repository from GitHub onto your local machine. You can access and modify the source code within the cloned repository.</h3>
 <br>
 
-![ ](/static/img/source_code.png)
+![ ](/static/img/source_code.png.png)
 
 <h4>After cloning the repository onto your machine, you can follow these steps to launch it using Visual Studio Code and install npm dependencies:</h4>
 
