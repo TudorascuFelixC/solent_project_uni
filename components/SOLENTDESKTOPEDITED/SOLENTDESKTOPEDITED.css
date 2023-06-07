@@ -1,0 +1,167 @@
+.solent-desktop-edited {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group {
+  height: 1016px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 1439px;
+}
+
+.frame-1 {
+  height: 160px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1439px;
+}
+
+.solent-online-learning {
+  height: 20px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 503px;
+}
+
+.group_-rain_-drops {
+  height: 374px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 1439px;
+}
+
+.frame_1366 {
+  height: 862px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 296px;
+}
+
+.navbar {
+  height: 71px;
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 216px;
+  width: 798px;
+}
+
+.group-oarcwl {
+  height: 17px;
+  left: 289px;
+  position: absolute;
+  top: 224px;
+  width: 755px;
+}
+
+.group_-green_-learning_-map {
+  height: 46px;
+  left: 276px;
+  object-fit: cover;
+  position: absolute;
+  top: 312px;
+  width: 796px;
+}
+
+.name {
+  height: 17px;
+  left: 1079px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 250px;
+}
+
+.group_icons {
+  height: 347px;
+  left: 281px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1135px;
+}
+
+.group-right-lines {
+  height: 555px;
+  left: 1143px;
+  object-fit: cover;
+  position: absolute;
+  top: 341px;
+  width: 282px;
+}
+
+.x2023-instance_-qho64 {
+  height: 64px;
+  left: 1160px;
+  object-fit: cover;
+  position: absolute;
+  top: 246px;
+  width: 261px;
+}
+
+.frame-17 {
+  height: 44px;
+  left: 281px;
+  object-fit: cover;
+  position: absolute;
+  top: 113px;
+  width: 498px;
+}
+
+.frame-18 {
+  height: 16px;
+  left: 281px;
+  object-fit: cover;
+  position: absolute;
+  top: 163px;
+  width: 336px;
+}
+
+.user-40-1 {
+  height: 40px;
+  left: 1347px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.to-do-list {
+  display: flex;
+  height: 554px;
+  left: 275px;
+  overflow: hidden;
+  position: absolute;
+  top: 384px;
+  width: 769px;
+}
+
+.learning-map-react {
+  height: 558px;
+  margin-left: -2px;
+  margin-top: -4px;
+  width: 799px;
+}
+
+.website_map {
+  height: 36px;
+  left: 561px;
+  object-fit: cover;
+  position: absolute;
+  top: 988px;
+  width: 212px;
+}
+

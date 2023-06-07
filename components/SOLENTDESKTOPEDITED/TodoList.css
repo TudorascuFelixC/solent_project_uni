@@ -1,0 +1,105 @@
+.scroll-container {
+    height: 400px; /* Set the desired height for the scrollable container */
+    overflow: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .react-learning-roadmap {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  .react-learning-roadmap h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .react-learning-roadmap h3 {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .react-learning-roadmap p {
+    margin-top: 5px;
+  }
+  
+  .react-learning-roadmap ul {
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  .react-learning-roadmap .week {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .react-learning-roadmap .week:first-child {
+    margin-top: 0;
+  }
+  
+  .react-learning-roadmap label {
+    display: inline-block;
+    margin-left: 5px;
+  }
+  
+  .react-learning-roadmap input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .react-learning-roadmap .code-container {
+    padding: 10px;
+  }
+  
+  .react-learning-roadmap .resources {
+    margin-top: 10px;
+  }
+  
+  .react-learning-roadmap .resources span {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .react-learning-roadmap .resources span:before {
+    content: "\2022"; /* Bullet point */
+    color: #000;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-right: 5px;
+  }
+  
+  .react-learning-roadmap .resources span a {
+    margin-left: 5px;
+    text-decoration: none;
+  }
+  
+  .react-learning-roadmap .resources span a:last-child {
+    margin-right: 0;
+  }
+  
+  .react-learning-roadmap .resources span br {
+    display: none;
+  }
+
+  .video-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .video-container h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .resources-container-h4 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }

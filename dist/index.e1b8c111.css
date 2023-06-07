@@ -1,0 +1,309 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css";
+@import "https://px.animaapp.com/6446a3c8a8a01a6763e1b875.6446a3c93889ef6894cf92eb.SR3sVFV.rcp.png";
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+.container-center-horizontal {
+  pointer-events: none;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.scroll-container {
+  height: 400px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: auto;
+}
+
+.scroll-container {
+  height: 400px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: auto;
+}
+
+.react-learning-roadmap {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.react-learning-roadmap h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.react-learning-roadmap h3 {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.react-learning-roadmap p {
+  margin-top: 5px;
+}
+
+.react-learning-roadmap ul {
+  padding-left: 20px;
+  list-style-type: none;
+}
+
+.react-learning-roadmap .week {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.react-learning-roadmap .week:first-child {
+  margin-top: 0;
+}
+
+.react-learning-roadmap label {
+  margin-left: 5px;
+  display: inline-block;
+}
+
+.react-learning-roadmap input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+.react-learning-roadmap .code-container {
+  padding: 10px;
+}
+
+.react-learning-roadmap .resources {
+  margin-top: 10px;
+}
+
+.react-learning-roadmap .resources span {
+  align-items: center;
+  margin-bottom: 5px;
+  display: flex;
+}
+
+.react-learning-roadmap .resources span:before {
+  content: "•";
+  color: #000;
+  width: 1em;
+  margin-right: 5px;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.react-learning-roadmap .resources span a {
+  margin-left: 5px;
+  text-decoration: none;
+}
+
+.react-learning-roadmap .resources span a:last-child {
+  margin-right: 0;
+}
+
+.react-learning-roadmap .resources span br {
+  display: none;
+}
+
+.video-container {
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.video-container h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.resources-container-h4 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.solent-desktop-edited {
+  height: 1024px;
+  width: 1440px;
+  background-color: #fff;
+  border: 1px;
+  position: relative;
+}
+
+.overlap-group {
+  height: 1016px;
+  width: 1439px;
+  position: absolute;
+  top: 8px;
+  left: 0;
+}
+
+.frame-1 {
+  height: 160px;
+  object-fit: cover;
+  width: 1439px;
+  position: absolute;
+  top: 54px;
+  left: 0;
+}
+
+.solent-online-learning {
+  height: 20px;
+  object-fit: cover;
+  width: 503px;
+  position: absolute;
+  top: 10px;
+  left: 100px;
+}
+
+.group_-rain_-drops {
+  height: 374px;
+  object-fit: cover;
+  width: 1439px;
+  position: absolute;
+  top: 7px;
+  left: 0;
+}
+
+.frame_1366 {
+  height: 862px;
+  object-fit: cover;
+  width: 296px;
+  position: absolute;
+  top: 154px;
+  left: 0;
+}
+
+.navbar {
+  height: 71px;
+  object-fit: cover;
+  width: 798px;
+  position: absolute;
+  top: 216px;
+  left: 268px;
+}
+
+.group-oarcwl {
+  height: 17px;
+  width: 755px;
+  position: absolute;
+  top: 224px;
+  left: 289px;
+}
+
+.group_-green_-learning_-map {
+  height: 46px;
+  object-fit: cover;
+  width: 796px;
+  position: absolute;
+  top: 312px;
+  left: 276px;
+}
+
+.name {
+  height: 17px;
+  object-fit: cover;
+  width: 250px;
+  position: absolute;
+  top: 13px;
+  left: 1079px;
+}
+
+.group_icons {
+  height: 347px;
+  object-fit: cover;
+  width: 1135px;
+  position: absolute;
+  top: 6px;
+  left: 281px;
+}
+
+.group-right-lines {
+  height: 555px;
+  object-fit: cover;
+  width: 282px;
+  position: absolute;
+  top: 341px;
+  left: 1143px;
+}
+
+.x2023-instance_-qho64 {
+  height: 64px;
+  object-fit: cover;
+  width: 261px;
+  position: absolute;
+  top: 246px;
+  left: 1160px;
+}
+
+.frame-17 {
+  height: 44px;
+  object-fit: cover;
+  width: 498px;
+  position: absolute;
+  top: 113px;
+  left: 281px;
+}
+
+.frame-18 {
+  height: 16px;
+  object-fit: cover;
+  width: 336px;
+  position: absolute;
+  top: 163px;
+  left: 281px;
+}
+
+.user-40-1 {
+  height: 40px;
+  object-fit: cover;
+  width: 40px;
+  position: absolute;
+  top: 0;
+  left: 1347px;
+}
+
+.to-do-list {
+  height: 554px;
+  width: 769px;
+  display: flex;
+  position: absolute;
+  top: 384px;
+  left: 275px;
+  overflow: hidden;
+}
+
+.learning-map-react {
+  height: 558px;
+  width: 799px;
+  margin-top: -4px;
+  margin-left: -2px;
+}
+
+.website_map {
+  height: 36px;
+  object-fit: cover;
+  width: 212px;
+  position: absolute;
+  top: 988px;
+  left: 561px;
+}
+
+
+
+
+
+/*# sourceMappingURL=index.e1b8c111.css.map */

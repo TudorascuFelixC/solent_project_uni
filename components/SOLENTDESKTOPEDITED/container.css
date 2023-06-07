@@ -1,0 +1,6 @@
+.scroll-container {
+    height: 400px; /* Set the desired height for the scrollable container */
+    overflow: auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
